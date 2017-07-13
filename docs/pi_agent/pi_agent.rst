@@ -48,9 +48,9 @@ You will need to provide the following:
 User Guide
 ^^^^^^^^^^^
    
-Refer to the **User Guide** on the **PI Integration Agent** to get started (see :doc:`using/using_pi_agent`)
+Refer to the **User Guide** on the **PI Integration Agent** to get started (see :doc:`using_pi_agent`)
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    
-   using/using_pi_agent
+   using_pi_agent
